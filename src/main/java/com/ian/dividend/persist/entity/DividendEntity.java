@@ -12,7 +12,6 @@ import lombok.ToString;
 import java.time.LocalDateTime;
 
 @Getter
-@Setter
 @ToString
 @NoArgsConstructor
 @Entity(name = "DIVIDEND")
